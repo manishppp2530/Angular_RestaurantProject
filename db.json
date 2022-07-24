@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Barista Cafe",
+      "email": "barista@baristacafe.com",
+      "mobile": 9812357000,
+      "address": "New Delhi - 6 Chandani Chowk",
+      "service": "Indian, Continental, Thai"
+    },
+    {
+      "id": 3,
+      "name": "Delhi Darbaar",
+      "email": "delhidarbar@gmail.com",
+      "mobile": 9863110965,
+      "address": "Tilak Nagar, Delhi",
+      "service": "Biryani, Shahi Paneer, Gulab Jamun"
+    },
+    {
+      "id": 4,
+      "name": "BBQ Nation",
+      "email": "bbqnation@bbq.com",
+      "mobile": 9812345022,
+      "address": "Vegas Mall, Sec 12 Dwarka",
+      "service": "Starter, Main Course, Desserts"
+    }
+  ],
+  "comments": [],
+  "user": [
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "name": "Manish",
+      "email": "manishpp2530@gmail.com",
+      "password": "Password01",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Manish Patel",
+      "email": "manishpp2530@gmail.com",
+      "password": "Password01"
+    },
+    {
+      "id": 7,
+      "name": "Manish",
+      "email": "manish@gmail.com",
+      "password": "Password01"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
